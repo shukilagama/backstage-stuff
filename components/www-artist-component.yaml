@@ -6,6 +6,10 @@ metadata:
   tags:
     - go
     - donkeys
+  links:
+   - url: https://github.com/shukibakbuki/donkey
+     title: GitHub Repo
+     icon: github
 spec:
   type: repo
   lifecycle: production
