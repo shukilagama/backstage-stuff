@@ -6,7 +6,7 @@ metadata:
   tags:
     - go
     - website
-  link:
+  links:
     - url: https://github.com/shukibakbuki/curamba
     title: curamba
     icon: github
