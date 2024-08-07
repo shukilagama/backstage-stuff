@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
+  title: artist-engagement-portal
   name: artist-engagement-portal
   description: Everything related to artists
   tags:
