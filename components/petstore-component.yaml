@@ -8,7 +8,7 @@ metadata:
     - First item
     - Second item
   links:
-    - url: https://github.com/swagger-api/swagger-petstore
+    - url: https://github.com/shukibakbuki/raistlin
       title: GitHub Repo
       icon: github
 spec:
