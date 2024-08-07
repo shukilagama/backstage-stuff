@@ -5,7 +5,7 @@ metadata:
   description: Searcher
   tags:
     - go
-  link:
+  links:
     - url: https://github.com/shukibakbuki/scates
     title: scates?
     icon: github
