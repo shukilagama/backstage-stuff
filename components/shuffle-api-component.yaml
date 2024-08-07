@@ -6,7 +6,7 @@ metadata:
   labels:
     goVersion: go1.15.3
     category: music
-  link:
+  links:
     - url: https://github.com/zabybabaye/firstone
       title: heyo
       icon github
