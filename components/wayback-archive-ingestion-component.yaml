@@ -3,8 +3,14 @@ kind: Component
 metadata:
   name: wayback-archive-ingestion
   description: Ingestion subsystem of the Wayback Archive
+  links:
+    - url: https://github.com/shukibakbuki/dingdong33
+    title: OMG
+    icon: github
 spec:
   type: service
   lifecycle: production
   owner: team-d
   subcomponentOf: wayback-archive
+
+
