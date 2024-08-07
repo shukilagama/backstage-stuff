@@ -6,6 +6,10 @@ metadata:
   labels:
     goVersion: go1.15.3
     category: music
+  link:
+    - url: https://github.com/zabybabaye/firstone
+      title: heyo
+      icon github
   tags:
     - go
 spec:
