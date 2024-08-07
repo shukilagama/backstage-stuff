@@ -3,6 +3,13 @@ kind: Component
 metadata:
   name: wayback-search
   description: Search of the wayback machine
+  tags:
+    - nooooo
+    - way
+  links:
+    - url: https://github.com/shukilagama/backstage-stuff
+      title: GitHub Repo
+      icon: github
 spec:
   type: service
   lifecycle: production
@@ -11,3 +18,4 @@ spec:
     - wayback-search
   consumesApis:
     - wayback-archive
+
