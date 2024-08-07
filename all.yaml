@@ -8,3 +8,4 @@ spec:
     - ./all-components.yaml
     - ./all-domains.yaml
     - ./all-systems.yaml
+    - ./acme-corp.yaml
