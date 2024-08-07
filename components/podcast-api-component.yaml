@@ -5,7 +5,7 @@ metadata:
   description: Podcast API
   tags:
     - java
-  link:
+  links:
     - url: https://github.com/shukibakbuki/gamba
     title: gamba
     icon: github
