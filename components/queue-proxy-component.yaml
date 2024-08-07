@@ -7,8 +7,8 @@ metadata:
     - go
     - website
   link:
-    - url: https://github.com/shukibakbuki/scates
-    title: scates
+    - url: https://github.com/shukibakbuki/curamba
+    title: curamba
     icon: github
 spec:
   type: website
