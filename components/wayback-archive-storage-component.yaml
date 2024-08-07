@@ -3,8 +3,15 @@ kind: Component
 metadata:
   name: wayback-archive-storage
   description: Storage subsystem of the Wayback Archive
+  links:
+    - url: https://github.com/shukibakbuki/dingdong
+      title: Github Repo
+      icon: github
 spec:
   type: service
   lifecycle: production
   owner: team-a
   subcomponentOf: wayback-archive
+
+
+
