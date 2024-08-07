@@ -5,6 +5,10 @@ metadata:
   description: Searcher
   tags:
     - go
+  link:
+    - url: https://github.com/shukibakbuki/scates
+    title: scates?
+    icon: github
 spec:
   type: service
   lifecycle: production
