@@ -8,8 +8,8 @@ metadata:
     - way
   links:
     - url: https://github.com/shukilagama/backstage-stuff
-      title: GitHub Repo
-      icon: github
+    title: GitHub Repo
+    icon: github
 spec:
   type: service
   lifecycle: production
