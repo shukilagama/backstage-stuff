@@ -4,7 +4,7 @@ metadata:
   name: podcast-api
   description: Podcast API
   links:
-    - url: https://github.com/shukibakbuki/gamba
+    - url: 'https://github.com/shukibakbuki/gamba'
       title: GitHub Repo
       icon: github
 spec:
@@ -12,4 +12,3 @@ spec:
   lifecycle: experimental
   owner: team-b
   system: podcast
-
