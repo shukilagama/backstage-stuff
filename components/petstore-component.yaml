@@ -9,8 +9,8 @@ metadata:
     - Second item
   links:
     - url: https://github.com/shukibakbuki/raistlin
-      title: GitHub Repo
-      icon: github
+    title: GitHub Repo
+    icon: github
 spec:
   type: service
   lifecycle: experimental
