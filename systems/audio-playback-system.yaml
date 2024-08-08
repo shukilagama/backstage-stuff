@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  title: audio-test
+  title: audio-playback
   name: audio-playback
   description: Audio playback system
 spec:
