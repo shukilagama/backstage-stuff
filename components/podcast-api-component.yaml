@@ -5,8 +5,8 @@ metadata:
   description: Podcast API
 links:
   - url: 'https://github.com/shukibakbuki/gamba'
-  - title: GitHub Repo
-  - icon: github
+  - title: 'GitHub Repo'
+  - icon: 'github'
 spec:
   type: service
   lifecycle: experimental
