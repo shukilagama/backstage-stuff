@@ -3,6 +3,9 @@ kind: System
 metadata:
   name: Repos
   description: Repos of some place
+  tags:
+    - hello
+    - goodbye
 spec:
   owner: team-b
   domain: playback
