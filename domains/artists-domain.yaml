@@ -4,6 +4,9 @@ metadata:
   name: artists
   description: Everything related to artists
   title: Artists
+  tags:
+    - boom
+    - shalom
   links:
     - url: http://example.com/domain/artists/
       title: Domain Readme
