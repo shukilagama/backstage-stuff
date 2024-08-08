@@ -9,3 +9,5 @@ metadata:
 spec:
   owner: team-b
   domain: playback
+  lifecycle: production
+  type: sith
