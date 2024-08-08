@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: podcast-api
   description: Podcast API
-  links:
-    - url: 'https://github.com/shukibakbuki/gamba'
-    - title: GitHub Repo
-    - icon: github
+links:
+  - url: 'https://github.com/shukibakbuki/gamba'
+  - title: GitHub Repo
+  - icon: github
 spec:
   type: service
   lifecycle: experimental
