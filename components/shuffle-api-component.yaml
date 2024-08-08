@@ -8,8 +8,6 @@ metadata:
     category: music
   links:
     - url: https://github.com/zabybabaye/firstone
-      title: heyo
-      icon github
   tags:
     - go
 spec:
