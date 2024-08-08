@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Repos
+  description: Repos of some place
+spec:
+  owner: team-b
+  domain: playback
