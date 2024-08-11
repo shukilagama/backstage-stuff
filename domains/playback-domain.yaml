@@ -3,8 +3,8 @@ kind: Domain
 metadata:
   name: playback
   description: Everything related to audio playback
+  tags:
+    - 3apps
 spec:
   owner: user:frank.tiernan
   subdomainOf: audio
-  tags:
-    - 3apps
