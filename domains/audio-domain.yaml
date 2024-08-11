@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
   name: audio
-  description: Everything related to audio
+  description: Everything related to audio (2apps)
   links:
     - url: http://example.com/domain/audio/
       title: Domain Readme
