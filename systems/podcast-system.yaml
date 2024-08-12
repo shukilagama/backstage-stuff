@@ -3,6 +3,9 @@ kind: System
 metadata:
   name: podcast
   description: Podcast playback
+  tags:
+    - test
+    - podcasting
 spec:
   owner: team-b
   domain: playback
