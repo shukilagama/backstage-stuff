@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   title: some-system
-  name: "Some System"
+  name: some-system
   description: "Some system"
 spec:
   owner: team-c
