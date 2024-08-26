@@ -6,5 +6,5 @@ metadata:
   tags:
     - 3apps
 spec:
-  owner: user:frank.tiernan
+  owner: team-b
   subdomainOf: audio
