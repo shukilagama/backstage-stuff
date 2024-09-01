@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: acme-corp
   description: The acme-corp organization
+  tags: 
+    - boom
   links:
     - url: http://www.acme.com/
       title: Website
