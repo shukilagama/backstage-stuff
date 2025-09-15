@@ -5,8 +5,8 @@ metadata:
   description: Everything related to artists
   title: Artists
   tags:
-    - boom
-    - shalom
+    - domain
+    - application
   links:
     - url: http://example.com/domain/artists/
       title: Domain Readme
